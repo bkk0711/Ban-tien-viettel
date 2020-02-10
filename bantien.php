@@ -1,11 +1,11 @@
 <?php
 /*
-||----------------------------------------------||
-||  <name> Bùi Khôi </name>			||
-|| 	<phone> 0869.20.851 </phone>		||
-|| 	<mail> bkkhoi1800151@gmail.com </mail>	||
-||  <facebook> facebook.com/bkk0711 </facebook>	||
-||----------------------------------------------||
+||------------------------------------------------------||
+||  <name> Bùi Khôi </name>				||
+|| 	<phone> 0869.20.851 </phone>			||
+||<mail> bkkhoi1800151@student.ctuet.edu.vn </mail>	||
+||  <facebook> facebook.com/bkk0711 </facebook>		||
+||------------------------------------------------------||
 */
 if(!$_GET[taikhoan] and !$_GET[matkhau] and !$_GET[matkhauct] and !$_GET[sotien] and !$_GET[sdtnhan]){
     echo 'Thông Tin Không Đủ';
